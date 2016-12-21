@@ -1,0 +1,16 @@
+{
+    "name": "paupenin/laravel-domain-sites",
+    "description": "Laravel Package for dynamic domain based sites",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pau Penin",
+            "email": "paupenin@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "laravel/laravel": "^5.3"
+    }
+}
